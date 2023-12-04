@@ -44,8 +44,7 @@ in a number of standard Few-Shot learning benchmarks.
 1. Python >= 3.7
 2. Numpy >= 1.19
 3. [pyTorch](https://pytorch.org/) >= 1.11
-4. [GPyTorch](https://gpytorch.ai/) >= 1.5.1
-5. (optional) [neptune-client](https://neptune.ai/) for logging traning results into your Neptune project.
+4. (optional) [neptune-client](https://neptune.ai/) for logging traning results into your Neptune project.
  
 
 ### Installation
